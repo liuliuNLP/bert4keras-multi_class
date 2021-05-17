@@ -1,4 +1,4 @@
-本项目采用Keras和ALBERT实现文本多标签分类任务,其中对ALBERT进行微调。
+本项目采用bert4keras和ALBERT、electra实现文本多标签分类任务,其中对ALBERT进行微调。
 
 ### 维护者
 
