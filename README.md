@@ -8,23 +8,28 @@
 
 ### 数据集
 
-[全网新闻分类数据(SogouCA)](http://www.sogou.com/labs/resource/ca.php)
+- 全网新闻分类数据(SogouCA)](http://www.sogou.com/labs/resource/ca.php)
+
 
 本次实验采用的sougou小分类数据集，共有5个类别，分别为体育、健康、军事、教育、汽车。
 
 下面链接帮我们整理了各种任务的数据集，有需要的可以自行下载。
 
-各种任务的数据集下载：https://github.com/CLUEbenchmark/CLUEDatasetSearch
+- 各种任务的数据集下载：https://github.com/CLUEbenchmark/CLUEDatasetSearch
+
 
 ### 模型下载
 
 本项目只使用了三种预训练模型，各位如果想使用其他模型跑效果，可自行下载。
 
-bert: https://github.com/google-research/bert
+- bert: https://github.com/google-research/bert
 
-electra_180g_small: https://github.com/ymcui/Chinese-ELECTRA
 
-albert_small_zh_google: https://github.com/brightmart/albert_zh
+- electra_180g_small: https://github.com/ymcui/Chinese-ELECTRA
+
+
+- albert_small_zh_google: https://github.com/brightmart/albert_zh
+
 
 ### 模型效果
 
