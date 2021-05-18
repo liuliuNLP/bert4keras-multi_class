@@ -40,7 +40,7 @@
 使用bert预训练模型，评估结果如下:
 
 ```
-	  precision	   recall	  f1-score	 support
+	  precision	   recall	  f1-score	support
 汽车	0.987025948	0.990981964	0.989	        998
 体育	0.994877049	0.974899598	0.984787018	996
 健康	0.991596639	0.946840522	0.968701898	997
@@ -83,7 +83,7 @@ weighted avg	0.974923657	0.97452868	0.974502595	4986
 使用albert_small_zh_google预训练模型，评估结果如下:
 
 ```
-	  precision	   recall	  f1-score	 support
+	  precision	   recall	  f1-score	support
 军事	0.993	        0.99498998	0.993993994	998
 教育	0.980632008	0.964894684	0.972699697	997
 健康	0.977159881	0.986960883	0.982035928	997
