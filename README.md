@@ -1,6 +1,6 @@
-本项目是基于苏神(https://github.com/bojone/bert4keras) 的 bert4keras 框架下进行开发的多标签分类任务。
+本项目是基于苏神(https://github.com/bojone/bert4keras) 的 bert4keras 框架下进行开发的多分类任务。
 
-本项目是通过bert、albert、electra三个预训练模型对下游任务进行fine-tune来实现文本多标签分类任务。
+本项目是通过bert、albert、electra三个预训练模型对下游任务进行fine-tune来实现文本多分类任务。
 
 ### 维护者
 
